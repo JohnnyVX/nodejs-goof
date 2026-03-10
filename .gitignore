@@ -12,3 +12,7 @@ npm-debug.log
 .idea/
 .dccache
 
+# Personal IDE/tool config (SonarLint, Snyk org IDs)
+.sonarlint/
+.vscode/
+
